@@ -3,4 +3,6 @@
     <string name="txt_btn_click">Click</string>
     <string name="text_title">Hello World!</string>
     <string name="message">Favorite!</string>
+    <string name="target_title">Android 5.0</string>
+    <string name="target_description">Esta es la versión en la que se incluyó Material Design, Android Lollipop</string>
 </resources>
